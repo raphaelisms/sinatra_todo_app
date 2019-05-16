@@ -24,3 +24,12 @@ The application is designed to let the user to :
 
 
 [You can try the app on Heroku](https://boiling-depths-96093.herokuapp.com/)
+
+Here's mysql creds to use, Raph:
+`
+$db_hostname = 'remotemysql.com:3306';
+$db_database = 'rogxGJjlWb';
+$db_username = 'rogxGJjlWb';
+$db_password = 'wNd449t2T0';
+$charset = 'utf8mb4';
+`
